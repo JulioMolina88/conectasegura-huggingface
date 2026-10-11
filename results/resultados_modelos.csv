@@ -1,0 +1,4 @@
+modelo,accuracy,precision_macro,recall_macro,f1_macro,latencia_total_s,latencia_promedio_ms
+XLM-RoBERTa,0.633,0.700,0.633,0.644,4.101,136.71
+DistilBERT multilingüe,0.600,0.700,0.600,0.576,0.899,29.96
+RoBERTuito,0.567,0.712,0.567,0.570,2.346,78.19

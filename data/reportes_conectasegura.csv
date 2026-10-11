@@ -1,0 +1,31 @@
+id_reporte,texto,etiqueta_sentimiento,origen,uso
+CS-001,Me llamaron para pedirme mi contraseña y datos de mi tarjeta.,NEG,sintético académico,evaluación
+CS-002,Recibí varias llamadas con amenazas para depositar dinero.,NEG,sintético académico,evaluación
+CS-003,El número insistió en que compartiera el código de verificación.,NEG,sintético académico,evaluación
+CS-004,La persona fingió ser del banco y solicitó información privada.,NEG,sintético académico,evaluación
+CS-005,"Me ofrecieron un premio, pero querían que hiciera una transferencia.",NEG,sintético académico,evaluación
+CS-006,La llamada fue agresiva y me presionaron para pagar de inmediato.,NEG,sintético académico,evaluación
+CS-007,Reporto una llamada sospechosa que intentó obtener mis datos.,NEG,sintético académico,evaluación
+CS-008,Usaron mi nombre y dijeron que mi cuenta estaba comprometida.,NEG,sintético académico,evaluación
+CS-009,Me marcaron desde números distintos con el mismo engaño.,NEG,sintético académico,evaluación
+CS-010,La llamada parecía fraude porque pidieron acceso a mi aplicación.,NEG,sintético académico,evaluación
+CS-011,Recibí una llamada desconocida y deseo verificar el número.,NEU,sintético académico,evaluación
+CS-012,"El teléfono marcó dos veces, pero no dejaron mensaje.",NEU,sintético académico,evaluación
+CS-013,Quiero saber cómo reportar un número que no reconozco.,NEU,sintético académico,evaluación
+CS-014,La llamada se cortó antes de que pudiera contestar.,NEU,sintético académico,evaluación
+CS-015,Tengo una llamada perdida de un número sin identificar.,NEU,sintético académico,evaluación
+CS-016,¿Pueden revisar si este número tiene reportes?,NEU,sintético académico,evaluación
+CS-017,Me contactaron para una encuesta y no di información.,NEU,sintético académico,evaluación
+CS-018,Deseo consultar las opciones de seguridad para llamadas.,NEU,sintético académico,evaluación
+CS-019,El número no estaba en mis contactos y quiero información.,NEU,sintético académico,evaluación
+CS-020,Solicito orientación sobre una llamada recibida hoy.,NEU,sintético académico,evaluación
+CS-021,Gracias por avisarme que el número tenía reportes de fraude.,POS,sintético académico,evaluación
+CS-022,La alerta de ConectaSegura me ayudó a evitar una estafa.,POS,sintético académico,evaluación
+CS-023,El proceso para reportar la llamada fue claro y rápido.,POS,sintético académico,evaluación
+CS-024,Me atendieron bien y resolvieron mi reporte.,POS,sintético académico,evaluación
+CS-025,La aplicación identificó el riesgo antes de que respondiera.,POS,sintético académico,evaluación
+CS-026,Agradezco la protección y las recomendaciones recibidas.,POS,sintético académico,evaluación
+CS-027,La notificación fue útil para reconocer el intento de engaño.,POS,sintético académico,evaluación
+CS-028,El canal de soporte respondió correctamente a mi consulta.,POS,sintético académico,evaluación
+CS-029,Me siento más seguro con las alertas de llamadas sospechosas.,POS,sintético académico,evaluación
+CS-030,La información de prevención fue muy útil.,POS,sintético académico,evaluación
